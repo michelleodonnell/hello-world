@@ -1,2 +1,2 @@
 # hello-world
-time to learn git hub
+time to learn
